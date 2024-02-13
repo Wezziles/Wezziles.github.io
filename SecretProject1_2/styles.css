@@ -8,7 +8,9 @@ body .container {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: rgb(246, 184, 194);
+  background: url("images/bgimage.jpg") repeat;
+  background-size: 15%;
+  /* background-color: rgb(246, 184, 194); */
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
