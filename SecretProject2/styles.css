@@ -27,9 +27,9 @@ body {
 h1 {
   padding-left: 25%;
   padding-top: 1%;
-  color: rgb(148, 189, 192);
+  color: rgb(208, 128, 155);
   -webkit-text-stroke: 1px;
-  -webkit-text-stroke-color: rgb(115, 167, 181);
+  -webkit-text-stroke-color: rgb(124, 111, 118);
 }
 
 .carousel {
